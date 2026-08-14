@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\MVC\ECommerceApplication\obj\Debug\net10.0\ECommerceApplication.RazorAssemblyInfo.cs
