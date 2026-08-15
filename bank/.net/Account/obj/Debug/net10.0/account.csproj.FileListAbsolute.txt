@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.AssemblyInfo.cs
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\bank\.net\Account\bin\Debug\net10.0\account.exe
+C:\Users\DELL\Desktop\bank\.net\Account\bin\Debug\net10.0\account.deps.json
+C:\Users\DELL\Desktop\bank\.net\Account\bin\Debug\net10.0\account.runtimeconfig.json
+C:\Users\DELL\Desktop\bank\.net\Account\bin\Debug\net10.0\account.dll
+C:\Users\DELL\Desktop\bank\.net\Account\bin\Debug\net10.0\account.pdb
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.dll
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\refint\account.dll
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.pdb
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\account.genruntimeconfig.cache
+C:\Users\DELL\Desktop\bank\.net\Account\obj\Debug\net10.0\ref\account.dll
