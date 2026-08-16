@@ -1,0 +1,27 @@
+@model List<HospitalMVC.Models.Doctor>
+
+<h2>Doctors List</h2>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Specialization</th>
+        <th>Qualification</th>
+        <th>Phone</th>
+        <th>Email</th>
+    </tr>
+
+@foreach(var doctor in Model)
+{
+    <tr>
+        <td>@doctor.Id</td>
+        <td>@doctor.Name</td>
+        <td>@doctor.Specialization</td>
+        <td>@doctor.Qualification</td>
+        <td>@doctor.Phone</td>
+        <td>@doctor.Email</td>
+    </tr>
+}
+
+</table>

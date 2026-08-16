@@ -1,0 +1,22 @@
+@model HospitalMVC.Models.Appointment
+
+<h2>Book Appointment</h2>
+
+@if(ViewBag.Message != null)
+{
+    <h3>@ViewBag.Message</h3>
+}
+
+<form asp-action="Create" method="post">
+
+    <label>Appointment Date</label><br />
+    <input asp-for="AppointmentDate" type="date" />
+    <br /><br />
+
+    <label>Disease</label><br />
+    <input asp-for="Disease" />
+    <br /><br />
+
+    <input type="submit" value="Book Appointment" />
+
+</form>

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\bin\Debug\net10.0\CollectionDemoapp.exe
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\bin\Debug\net10.0\CollectionDemoapp.deps.json
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\bin\Debug\net10.0\CollectionDemoapp.runtimeconfig.json
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\bin\Debug\net10.0\CollectionDemoapp.dll
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\bin\Debug\net10.0\CollectionDemoapp.pdb
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.dll
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\refint\CollectionDemoapp.dll
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.pdb
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\CollectionDemoapp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TFL1\.net\CollectionDemoapp\obj\Debug\net10.0\ref\CollectionDemoapp.dll

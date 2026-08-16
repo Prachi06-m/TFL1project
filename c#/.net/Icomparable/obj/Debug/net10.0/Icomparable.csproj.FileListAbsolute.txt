@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\TFL1\.net\Icomparable\obj\Debug\net10.0\Icomparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL1\.net\Icomparable\obj\Debug\net10.0\Icomparable.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\Icomparable\obj\Debug\net10.0\Icomparable.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL1\.net\Icomparable\obj\Debug\net10.0\Icomparable.csproj.CoreCompileInputs.cache

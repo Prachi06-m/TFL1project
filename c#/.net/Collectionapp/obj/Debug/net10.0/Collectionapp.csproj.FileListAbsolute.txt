@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\bin\Debug\net10.0\Collectionapp.exe
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\bin\Debug\net10.0\Collectionapp.deps.json
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\bin\Debug\net10.0\Collectionapp.runtimeconfig.json
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\bin\Debug\net10.0\Collectionapp.dll
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\bin\Debug\net10.0\Collectionapp.pdb
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.dll
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\refint\Collectionapp.dll
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.pdb
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\Collectionapp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TFL1\.net\Collectionapp\obj\Debug\net10.0\ref\Collectionapp.dll

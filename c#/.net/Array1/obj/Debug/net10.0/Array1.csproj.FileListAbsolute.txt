@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\Array1\bin\Debug\net10.0\Array1.exe
+C:\Users\DELL\Desktop\TFL1\.net\Array1\bin\Debug\net10.0\Array1.deps.json
+C:\Users\DELL\Desktop\TFL1\.net\Array1\bin\Debug\net10.0\Array1.runtimeconfig.json
+C:\Users\DELL\Desktop\TFL1\.net\Array1\bin\Debug\net10.0\Array1.dll
+C:\Users\DELL\Desktop\TFL1\.net\Array1\bin\Debug\net10.0\Array1.pdb
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.dll
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\refint\Array1.dll
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.pdb
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\Array1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TFL1\.net\Array1\obj\Debug\net10.0\ref\Array1.dll

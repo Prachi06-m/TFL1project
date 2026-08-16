@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\bin\Debug\net10.0\IAccount.exe
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\bin\Debug\net10.0\IAccount.deps.json
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\bin\Debug\net10.0\IAccount.runtimeconfig.json
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\bin\Debug\net10.0\IAccount.dll
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\bin\Debug\net10.0\IAccount.pdb
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.dll
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\refint\IAccount.dll
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.pdb
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\IAccount.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TFL1\.net\IAccount\obj\Debug\net10.0\ref\IAccount.dll
