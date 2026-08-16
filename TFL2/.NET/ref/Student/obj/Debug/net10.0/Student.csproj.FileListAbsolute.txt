@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\TFL2\.NET\Student\obj\Debug\net10.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL2\.NET\Student\obj\Debug\net10.0\Student.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Student\obj\Debug\net10.0\Student.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL2\.NET\Student\obj\Debug\net10.0\Student.csproj.CoreCompileInputs.cache

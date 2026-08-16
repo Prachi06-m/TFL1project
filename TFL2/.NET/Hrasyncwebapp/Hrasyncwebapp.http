@@ -1,0 +1,6 @@
+@Hrasyncwebapp_HostAddress = http://localhost:5172
+
+GET {{Hrasyncwebapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

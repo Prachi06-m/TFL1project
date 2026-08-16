@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\TFL2\.NET\obj\Debug\net10.0\.NET.RazorAssemblyInfo.cs

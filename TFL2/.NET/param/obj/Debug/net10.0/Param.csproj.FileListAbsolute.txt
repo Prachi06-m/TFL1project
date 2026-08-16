@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Param\bin\Debug\net10.0\Param.exe
+C:\Users\DELL\Desktop\TFL2\.NET\Param\bin\Debug\net10.0\Param.deps.json
+C:\Users\DELL\Desktop\TFL2\.NET\Param\bin\Debug\net10.0\Param.runtimeconfig.json
+C:\Users\DELL\Desktop\TFL2\.NET\Param\bin\Debug\net10.0\Param.dll
+C:\Users\DELL\Desktop\TFL2\.NET\Param\bin\Debug\net10.0\Param.pdb
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.dll
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\refint\Param.dll
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.pdb
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\Param.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Param\obj\Debug\net10.0\ref\Param.dll

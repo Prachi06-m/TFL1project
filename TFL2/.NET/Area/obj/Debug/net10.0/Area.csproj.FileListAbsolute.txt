@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\TFL2\.NET\Area\bin\Debug\net10.0\Area.exe
+C:\Users\DELL\Desktop\TFL2\.NET\Area\bin\Debug\net10.0\Area.deps.json
+C:\Users\DELL\Desktop\TFL2\.NET\Area\bin\Debug\net10.0\Area.runtimeconfig.json
+C:\Users\DELL\Desktop\TFL2\.NET\Area\bin\Debug\net10.0\Area.dll
+C:\Users\DELL\Desktop\TFL2\.NET\Area\bin\Debug\net10.0\Area.pdb
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.dll
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\refint\Area.dll
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.pdb
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\Area.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TFL2\.NET\Area\obj\Debug\net10.0\ref\Area.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\bin\Debug\net10.0\Shadowing.exe
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\bin\Debug\net10.0\Shadowing.deps.json
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\bin\Debug\net10.0\Shadowing.runtimeconfig.json
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\bin\Debug\net10.0\Shadowing.dll
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\bin\Debug\net10.0\Shadowing.pdb
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.dll
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\refint\Shadowing.dll
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.pdb
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\Shadowing.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Inheritance\.net\Shadowing\obj\Debug\net10.0\ref\Shadowing.dll
