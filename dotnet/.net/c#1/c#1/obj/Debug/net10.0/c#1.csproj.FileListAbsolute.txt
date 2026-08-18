@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\bin\Debug\net10.0\c#1.exe
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\bin\Debug\net10.0\c#1.deps.json
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\bin\Debug\net10.0\c#1.runtimeconfig.json
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\bin\Debug\net10.0\c#1.dll
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\bin\Debug\net10.0\c#1.pdb
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.dll
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\refint\c#1.dll
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.pdb
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\c#1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\dotnet\.net\c#1\C#1\obj\Debug\net10.0\ref\c#1.dll
